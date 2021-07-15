@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Leonardo Gimenes
+	email = lgimenes07@gmail.com
+
+[alias]
+	ll = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
